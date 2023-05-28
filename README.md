@@ -1,5 +1,5 @@
 
-Simple implementation in training a chat model to learn Molana  poems 
+Simple implementation of chatGPT to generate khayyam poems.For the best results, it need to be pretrained by shakespear text file and then train again on khayyam poems. 
 
 
 Credits to Andrei Kaparthy
