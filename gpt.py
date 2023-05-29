@@ -30,11 +30,6 @@ vocab_size = len(sorted(list(set(text_khayyam))))
 
 
 def get_data(text):  
-    
-    # print("TAMAMMMM")
-    # import sys
-    # sys.exit()
-
     # here are all the unique characters that occur in this text
     chars = sorted(list(set(text)))
     vocab_size = len(chars)
