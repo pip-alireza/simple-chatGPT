@@ -1,5 +1,5 @@
 
-Simple implementation of chatGPT to generate khayyam poems.For the best results, it need to be pretrained by shakespear text file and then train again on khayyam poems. 
+Simple implementation of chatGPT to generate khayyam poems. For the best results, pretrain it on shakespear text file and then train it on khayyam poems. 
 
 
 
